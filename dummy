@@ -1,0 +1,4 @@
+dummy = 5;
+for i = 1:10
+dummy = dummy + 1;
+end
